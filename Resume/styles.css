@@ -1,0 +1,49 @@
+body {
+    color: rgb(71, 48, 35);
+    background-color:rgb(245, 238, 220);
+    text-align: center;
+}
+
+.para {
+    color: rgb(111, 81, 66);
+    width: 400px;
+    padding: 25px;
+    margin: auto;
+    border: 3px solid rgb(71, 48, 35)
+}
+.coded{
+    color: rgb(111, 81, 66);
+    width: 400px;
+    padding: 25px;
+    margin: auto;
+    border: 3px solid rgb(71, 48, 35)
+}
+
+pre{text-align: left;}
+
+.line{
+    height:4px;
+    border-width:0px;
+    color:rgb(71, 48, 35);
+    background-color:rgb(71, 48, 35);
+    margin-left:50px;
+    margin-right:50px;
+}
+
+.small-line{
+    height:3px;
+    border-width:0px;
+    color:rgb(71, 48, 35);
+    background-color:rgb(71, 48, 35);
+    width: 450px
+}
+
+.list{
+    margin: 0 auto;
+    display: table 
+}
+
+table, td{
+    margin: auto;
+    border: 2px solid rgb(71, 48, 35)
+}
